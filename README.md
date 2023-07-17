@@ -26,4 +26,19 @@ Please refer to the Python codes in `ensemble` for details of our ensemble strat
 ## Citation
 If you find our work useful for your research, please cite our paper:
 
-**Are Pre-trained Language Models Useful for Model Ensemble in Chinese Grammatical Error Correction?**
+```
+@inproceedings{tang-etal-2023-pre,
+    title = "Are Pre-trained Language Models Useful for Model Ensemble in {C}hinese Grammatical Error Correction?",
+    author = "Tang, Chenming  and
+      Wu, Xiuyu  and
+      Wu, Yunfang",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-short.77",
+    pages = "893--901",
+    abstract = "Model ensemble has been in widespread use for Grammatical Error Correction (GEC), boosting model performance. We hypothesize that model ensemble based on the perplexity (PPL) computed by pre-trained language models (PLMs) should benefit the GEC system. To this end, we explore several ensemble strategies based on strong PLMs with four sophisticated single models. However, the performance does not improve but even gets worse after the PLM-based ensemble. This surprising result sets us doing a detailed analysis on the data and coming up with some insights on GEC. The human references of correct sentences is far from sufficient in the test data, and the gap between a correct sentence and an idiomatic one is worth our attention. Moreover, the PLM-based ensemble strategies provide an effective way to extend and improve GEC benchmark data. Our source code is available at https://github.com/JamyDon/PLM-based-CGEC-Model-Ensemble.",
+}
+```
