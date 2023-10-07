@@ -12,7 +12,8 @@ from PLM.bert_scorer import sentence_probability
 # from pytorch_pretrained_bert import BertTokenizer
 # from transformers.models.gpt2 import GPT2Config, GPT2LMHeadModel
 # from PLM.gpt2_scorer import sentence_probability
-from traditional import get_models, parse_m2, validate
+from traditional import get_models
+from rule_ensemble import parse_m2, validate
 
 
 def get_models(filename):
