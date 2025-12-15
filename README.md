@@ -28,7 +28,7 @@ Please refer to the Python codes in `ensemble` for details of our ensemble strat
 - Our work is supported by the National Hi-Tech RD Program of China (No.2020AAA0106600), the National Natural Science Foundation of China (62076008) and the Key Project of Natural Science Foundation of China (61936012).
 
 ## Citation
-If you find our work useful for your research, please cite our paper:
+If you find our work useful, feel free to cite our paper:
 
 ```
 @inproceedings{tang-etal-2023-pre,
