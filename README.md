@@ -1,5 +1,8 @@
 # PLM-based CGEC Model Ensemble
 
+[![arXiv](https://img.shields.io/badge/ACL_2023_Short-77-red.svg)](https://aclanthology.org/2023.acl-short.77/)
+[![arXiv](https://img.shields.io/badge/arXiv-2305.15183-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2305.15183)
+
 Source code of the ACL 2023 short paper **Are Pre-trained Language Models Useful for Model Ensemble in Chinese Grammatical Error Correction?**
 
 ## Get Started
